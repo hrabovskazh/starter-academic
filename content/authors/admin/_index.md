@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am not Nelson Bighetti 
+The website is under construction.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
