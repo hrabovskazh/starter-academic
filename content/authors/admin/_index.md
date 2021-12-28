@@ -14,7 +14,7 @@ organizations:
   url: https://www.hhs.se/en/houseoffinance/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Finance Ph.D. student at the Stockholm School of Economics. My research is in Household Finances and focuses on health and retirement planning. 
+bio: 
 
 # Interests to show in About widget
 interests:
@@ -70,6 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-The website is under construction.
+I am a Finance Ph.D. student at the Stockholm School of Economics.
+My research is in Household Finances and focuses on health and retirement planning.
 
  
