@@ -6,7 +6,7 @@ title: Yevheniia Hrabovska
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: PhD student, haha
 
 # Organizations/Affiliations to show in About widget
 organizations:
