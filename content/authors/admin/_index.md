@@ -14,7 +14,7 @@ organizations:
   url: https://www.hhs.se/en/houseoffinance/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: I am a PhD student.
 
 # Interests to show in About widget
 interests:
